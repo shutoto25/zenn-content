@@ -1,0 +1,13 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "Zenn記事とブック管理用リポジトリ",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.1.156"
+  }
+}
